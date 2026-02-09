@@ -1,0 +1,202 @@
+.titulo{
+    font-size: 80px;
+    color:white;
+    font-weight: bold;
+}
+
+.container_purple{
+    background-color: rgb(237, 234, 251);
+    padding: 50px;
+}
+.text-small{
+    font-size: 20px;
+    color: white;
+    }
+
+.text-small2{
+    font-size: 35px;
+    line-height: 1.2;
+    color:black;
+    text-align: left;
+
+}
+
+
+    
+.text-large{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.bg-azul {
+    background-color: #1A1A2D;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: white;
+    font-weight: 500;
+}
+
+.custom-container{
+    display: flex;
+
+}
+
+.bg-secondary{
+   background-color: #9696b8;
+
+}
+.colm1{
+    margin-right: 175px;
+}
+
+.colm2{
+    margin-left: 200px;
+}
+
+
+.colm3{
+    width: 250px;
+    margin-left: 18px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.category-card{
+    background-color:#ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    text-align: left;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+
+.category-icon{
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+
+.category-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+
+.category-text{
+    font-size: 14px;
+    margin: 0;
+    color: #4e4e4e;
+
+}
+
+
+.highlight{
+    background-color: #fddc74 !important;
+}
+
+
+.main-image {
+    border-radius: 15px;
+}
+.custom-card {
+    border: none;
+    border-radius: 15px;
+    background: #fff;
+    width: 100%;
+    max-width: 900px;
+    padding: 0 !important; 
+    
+}
+
+.why-image-box{
+    width: 30px;
+    margin: 40px;
+    text-align: center;
+}
+
+.why-image{
+    width:300 px;
+    height: auto;
+    border-radius:12px;
+    display:block;
+    margin: 0 auto;
+}
+
+.white-box {
+    background: white;       
+    padding: 50px;
+             
+}
+
+.author-card{
+    background: #ffffff;
+    width: 100%;
+    max-width: 250px;          
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;       
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.author-photo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.author-name {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.author-role {
+    font-size: 14px;
+    color: #4e4e4e;
+    margin: 0;
+}
+
+.social-icon{
+    width: 24px;
+    height: 24px;
+}
+
+.container_yellow{
+    background-color: #fddc74;
+    padding: 25px;
+}
+
+
+.linea-vertical{
+    height: 60px;
+    width: 1px;
+    background-color: black;
+}
+
+.post-image{
+    height: 280px;
+    width: 300px;
+}
+
+.container_morado{
+    background-color: #5E3BEE;
+    margin: 0 auto;
+    max-width: 990px;
+}
+
+.form-group{
+    max-width: 990px;
+    margin: 0 auto;
+
+}
